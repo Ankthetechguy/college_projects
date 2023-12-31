@@ -1,2 +1,3 @@
-# college_projects
-here are a few projects i created in my second year. 
+# classic_paddle_game
+in this mini project i recreated the classic ping pong game with python.
+
